@@ -24,6 +24,12 @@ echo "Hello HPC!" > file1.txt
 echo "📚 Displaying file1.txt contents..."
 cat file1.txt
 
+# How to use
+
+chmod +x examples.sh
+./examples.sh
+
+
 echo "🔐 Changing permissions..."
 chmod +x file1.txt
 
